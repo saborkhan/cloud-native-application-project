@@ -1,0 +1,6 @@
+
+---
+applications:
+ - name: movies-reviews-database-D0D
+   random-route: false
+   memory: 128M
